@@ -1,0 +1,10 @@
+package sun;
+
+import java.util.HashMap;
+
+public class sun {
+	public static void main(String[] args) {
+		HashMap<String,Integer> hashMap=new HashMap<String,Integer>();
+	}
+	
+}
